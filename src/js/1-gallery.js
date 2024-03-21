@@ -81,7 +81,7 @@ function galleryItems(arr) {
 			class="gallery-image" 
 			src="${preview}" 
 			alt="${description}"
-            width = "360";
+            width = "360"
 			/>
 	</a>
 </li>
