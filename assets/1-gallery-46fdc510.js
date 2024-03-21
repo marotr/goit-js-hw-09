@@ -4,9 +4,9 @@ import{S as t}from"./vendor-870f0eb5.js";const e=[{preview:"https://cdn.pixabay.
 			class="gallery-image" 
 			src="${p}" 
 			alt="${a}"
-            width = "360";
+            width = "360"
 			/>
 	</a>
 </li>
 `).join("")}n.insertAdjacentHTML("beforeend",c(e));const s={captionDelay:250,captionsData:"alt",captionPosition:"bottom"};new t(".gallery a",s);
-//# sourceMappingURL=1-gallery-b2f84e51.js.map
+//# sourceMappingURL=1-gallery-46fdc510.js.map
