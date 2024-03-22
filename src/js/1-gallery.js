@@ -88,7 +88,7 @@ function galleryItems(arr) {
 `).join('')
 };
 
-gallery.insertAdjacentHTML('beforeend', galleryItems(images));
+gallery?.insertAdjacentHTML('beforeend', galleryItems(images));
 const lightboxOptions = {
     captionDelay: 250,
     captionsData: 'alt',
